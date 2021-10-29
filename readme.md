@@ -92,3 +92,5 @@ Understanding react app folder structure, files and it's use
 - `node_modules` contains node package dependencies, modules for app
 - `public` for serving static files, images, scripts, css etc.
 - `src` source of the app, contains `App.js` and other source files, all components must be created inside this folder
+
+[_↑ Go to top_](#getting-started-with-react-app)
